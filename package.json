@@ -1,13 +1,13 @@
 {
-  "name": "ReactWeather",
+  "name": "boilerplate",
   "version": "1.0.0",
-  "description": "A simple React weather application",
+  "description": "Simple react app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Nik Reynolds",
+  "author": "Andrew Mead",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.9.1",
